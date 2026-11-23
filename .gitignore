@@ -1,1 +1,17 @@
+# Cisco Packet Tracer - arquivos temporários / de backup
+*.pka.bak
+*.pkt.bak
+*~
+*.tmp
 
+# Logs de simulação
+*.log
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores / IDEs
+.vscode/
+.idea/
